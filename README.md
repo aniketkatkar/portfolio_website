@@ -1,2 +1,2 @@
-# JohnDoe
-Free HTML 5 Bootstrap 3 Personal Website Template
+# web_portfolio
+HTML 5 Bootstrap 3 Personal Website Template
